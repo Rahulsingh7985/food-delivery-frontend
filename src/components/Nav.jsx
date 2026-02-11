@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import { MdFastfood } from "react-icons/md";
 import { IoSearch } from "react-icons/io5";
 import { LuShoppingBag } from "react-icons/lu";
-import { DataContext } from "../context/Usercontext";
+import { DataContext } from "../context/Usercontext.jsx";
 import { food_items } from "../food";
 import { useSelector } from "react-redux";
 
