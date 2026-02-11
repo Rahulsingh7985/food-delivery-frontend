@@ -3,7 +3,7 @@ import Nav from '../components/Nav'
 import Categories from '../Categories.jsx'
 import Card from '../components/Card.jsx'
 import {food_items} from '../food'
-import { DataContext } from '../context/Usercontext.jsx'
+import { DataContext } from '../context/UserContext'
 import { GiCancel } from "react-icons/gi";
 import Card2 from '../components/Card2.jsx'
 import { useSelector } from 'react-redux'
